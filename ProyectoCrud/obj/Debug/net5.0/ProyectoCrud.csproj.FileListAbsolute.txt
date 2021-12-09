@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\bin\Debug\net5.0\ProyectoCrud.exe
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\bin\Debug\net5.0\ProyectoCrud.deps.json
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\bin\Debug\net5.0\ProyectoCrud.runtimeconfig.json
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\bin\Debug\net5.0\ProyectoCrud.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\bin\Debug\net5.0\ProyectoCrud.dll
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\bin\Debug\net5.0\ref\ProyectoCrud.dll
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\bin\Debug\net5.0\ProyectoCrud.pdb
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.AssemblyInfo.cs
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.dll
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ref\ProyectoCrud.dll
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.pdb
+C:\Users\vicen\source\repos\ProyectoCrud\ProyectoCrud\obj\Debug\net5.0\ProyectoCrud.genruntimeconfig.cache
